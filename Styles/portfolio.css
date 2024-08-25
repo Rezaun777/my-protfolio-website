@@ -136,3 +136,17 @@ main{
     padding: 30px 150px;
     text-align: center;
 }
+
+.skills-container{
+    display: flex;
+    
+}
+
+.skills{
+    padding: 30px;
+    gap: 24px;
+}
+
+.skill-description{
+    
+}
